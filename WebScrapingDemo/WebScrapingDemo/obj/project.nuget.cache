@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WU1hRj9n/0cy54xLfQj8krnI5z0yHuDxUVALI0df4+ZGwKtX+HiCbScU9H5dWEEtOmiS62Xk8cxkNBvIHbDWEA==",
+  "success": true,
+  "projectFilePath": "E:\\Projekty\\WebScraping\\WebScrapingDemo\\WebScrapingDemo\\WebScrapingDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\htmlagilitypack\\1.11.51\\htmlagilitypack.1.11.51.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
